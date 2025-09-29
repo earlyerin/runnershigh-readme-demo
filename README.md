@@ -8,29 +8,31 @@
 # 주요 기능
 # 기술 스택
 ### 프론트엔드
-<img src="https://img.shields.io/badge/FIREBASE-DD2C00?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/EMOTION CSS-DD2C00?style=flat-square&logo=firebase&logoColor=white"/> -->
-
+<img src="https://img.shields.io/badge/FIREBASE-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Emotion-C865B9?style=for-the-badge&logo=emotion&logoColor=white"/>
 ### 백엔드
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MYBATIS-98CCFD?style=flat-square&logo=mybatis&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MYBATIS-98CCFD?style=for-the-badge&logo=mybatis&logoColor=white"/>
 
 ### 인프라
-<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 
 
 ### 커뮤니케이션
-<img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 # 팀원 소개
 <table>  
   <tbody>
     <tr>
-      <td width="600px"><a href="http://ivesvh.com"><img src=" " width="100px;" alt="Ives van Hoorne"/></td>
-      <td align="center" valign="top" width="50%"></td>
+      <td width="25%"><a href="http://ivesvh.com"><img src="https://github.com/user-attachments/assets/3e8d5731-ab78-4af9-8c71-390395f4f8ec" width="100%" alt="Ives van Hoorne"/></td>
+      <td ><img src="https://github.com/user-attachments/assets/3e8d5731-ab78-4af9-8c71-390395f4f8ec" width="100%" alt="Ives van Hoorne"/></td>
+      <td ><img src="https://github.com/user-attachments/assets/3e8d5731-ab78-4af9-8c71-390395f4f8ec" width="100%" alt="Ives van Hoorne"/></td>
+      <td ><img src="https://github.com/user-attachments/assets/3e8d5731-ab78-4af9-8c71-390395f4f8ec" width="100%" alt="Ives van Hoorne"/></td>
     </tr>
-     <tr>
-      <td align="center" valign="top" width="50%"></td>
-       <td align="center" valign="top" width="50%"></td>
+    <tr>
+      <td><span>손원영</span></td>
+      <td><span>김지니</span></td>
+      <td><span>이슬기</span></td>
+      <td><span>이예린</span></td>
     </tr>
   </tbody>
 </table>
