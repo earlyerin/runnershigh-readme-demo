@@ -24,8 +24,7 @@
 * 온라인에서 러닝 일상을 공유하며 유대감을 쌓고 오프라인으로 함께 러닝하는 연결고리로 역할
 ### 개발 기간
 📅 2025.09.01 ~ 2025.10.01
-<img width="1544" height="928" alt="스크린샷 2025-09-30 202251" src="https://github.com/user-attachments/assets/70b39ac7-cca5-4e9c-8b68-f7fbe3e24844" />
-
+<img width="1275" height="695" alt="image" src="https://github.com/user-attachments/assets/3404586e-1d61-4e40-9596-9f79e518c0cc" />
 
 
 ## <span id="2">주요 기능🚀</span>
