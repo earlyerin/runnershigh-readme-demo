@@ -26,7 +26,87 @@
 
 
 ## <span id="2">주요 기능🚀</span>
-서비스 화면 등
+<h3>1. 홈</h3>
+<table>
+  <tbody>
+    <tr>
+      <td>메인 화면</td>
+    </tr>
+    <tr>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<h3>2. 크루</h3>
+<table>
+  <tbody>
+    <tr>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<h3>3. 채팅방</h3>
+<table>
+  <tbody>
+    <tr>
+      <td>스플래시 화면</td>
+    </tr>
+    <tr>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<h3>4. 피드</h3>
+<table>
+  <tbody>
+    <tr>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<h3>5. 프로필</h3>
+<table>
+  <tbody>
+    <tr>
+      <td>내 게시물 화면</td>
+      <td>좋아요 누른 게시물 화면</td>
+      <td>캘린더 화면</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<h3>6. 로그인</h3>
+<table>
+  <tbody>
+    <tr>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<h3>6. 회원가입입</h3>
+<table>
+  <tbody>
+    <tr>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ## <span id="3">개발환경 및 기술스택🛠️</span>
 ### Frontend
