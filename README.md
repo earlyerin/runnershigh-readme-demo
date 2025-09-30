@@ -24,6 +24,7 @@
 * 온라인에서 러닝 일상을 공유하며 유대감을 쌓고 오프라인으로 함께 러닝하는 연결고리로 역할
 ### 개발 기간
 📅 2025.09.01 ~ 2025.10.01
+
 <img width="1275" height="695" alt="image" src="https://github.com/user-attachments/assets/3404586e-1d61-4e40-9596-9f79e518c0cc" />
 
 
@@ -187,6 +188,11 @@
 <details>
   <summary>
   <h3>API 명세서</h3>
+  </summary>
+</details>
+<details>
+  <summary>
+  <h3>페이지 명세서</h3>
   </summary>
   
 </details>
