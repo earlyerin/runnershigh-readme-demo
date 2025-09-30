@@ -23,6 +23,9 @@
 * 닉네임 변경, 일지 작성, 피드 관리, 좋아요 관리 등 개인화 기능을 한눈에 찾을 수 있게
 * 온라인에서 러닝 일상을 공유하며 유대감을 쌓고 오프라인으로 함께 러닝하는 연결고리로 역할
 ### 개발 기간
+📅 2025.09.01 ~ 2025.10.01
+<img width="1544" height="928" alt="스크린샷 2025-09-30 202251" src="https://github.com/user-attachments/assets/70b39ac7-cca5-4e9c-8b68-f7fbe3e24844" />
+
 
 
 ## <span id="2">주요 기능🚀</span>
@@ -33,7 +36,7 @@
       <td>메인 화면</td>
     </tr>
     <tr>
-      <td></td>
+      <td><img src="" alt="메인 화면"/></td>
     </tr>
   </tbody>
 </table>
@@ -78,10 +81,12 @@
   <tbody>
     <tr>
       <td>피드 목록 화면</td>
+      <td>피드 상세 화면</td>
       <td>피드 마커 클러스터링 화면</td>
       <td>피드 추가 화면</td>
     </tr>
     <tr>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -114,8 +119,14 @@
   <tbody>
     <tr>
       <td>로그인 화면</td>
+      <td>oauth2 가입</td>
+      <td>oauth2 연동</td>
+      <td>로딩 화면(리다이렉션 페이지)</td>
     </tr>
     <tr>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
   </tbody>
@@ -124,7 +135,7 @@
 <table>
   <tbody>
     <tr>
-      <td>회원가입 화</td>
+      <td>회원가입 화면</td>
     </tr>
     <tr>
       <td></td>
@@ -143,7 +154,8 @@
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 
-### Deployment (배포)
+### Deployment
+<img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
 
 ## <span id="4">팀원 소개🤝</span>
 <table>  
