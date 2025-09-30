@@ -8,29 +8,40 @@
 ### 5. [프로젝트 산출물](#5)
 ### 6. [커밋 컨벤션](#6)
 
-## <span id="1">📝프로젝트 소개</span> 
+## <span id="1">프로젝트 소개📝</span> 
 ### 기획 배경
+* 러닝이 큰 인기를 끌며, 건강과 자기계발을 동시에 추구하는 트렌드로 자리 잡음에 따라 주제로 선정
+* 개인 운동의 특성을 변화시킬 웹앱의 등장
 ### 대상
+* 러닝 초보부터 고수까지 실력보단 꾸준함을 추구하는 사람
+* **개인** 운동일지 작성과 러닝사진 **공유**를 동시에 하고 싶은 사람
+* 크루 러닝을 원하는 사람
 ### 기대효과
+* 혼자 야외러닝하는 것에 어려움이 있다면 크루와 함께 시작!
+* 러닝 위치과 사진을 간편하게 공유
+* 주간 랭킹을 통한 동기부여
+* 닉네임 변경, 일지 작성, 피드 관리, 좋아요 관리 등 개인화 기능을 한눈에 찾을 수 있게
+* 온라인에서 러닝 일상을 공유하며 유대감을 쌓고 오프라인으로 함께 러닝하는 연결고리로 역할
 ### 개발 기간
 
-## <span id="2">🚀주요 기능</span>
+
+## <span id="2">주요 기능🚀</span>
 서비스 화면 등
 
-## <span id="3">🛠️개발환경 및 기술스택</span>
-### 프론트엔드
-<img src="https://img.shields.io/badge/FIREBASE-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Emotion-C865B9?style=for-the-badge&logo=emotion&logoColor=white"/> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
+## <span id="3">개발환경 및 기술스택🛠️</span>
+### Frontend
+<img src="https://img.shields.io/badge/FIREBASE-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Emotion-C865B9?style=for-the-badge&logo=emotion&logoColor=white"/> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
 
-### 백엔드
+### Backend
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MYBATIS-98CCFD?style=for-the-badge&logo=mybatis&logoColor=white"/>
 
-### 인프라
-<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+### Collaboration & Communication
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 
-### 커뮤니케이션
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+### Deployment (배포)
 
-## <span id="4">🤝팀원 소개</span>
+## <span id="4">팀원 소개🤝</span>
 <table>  
   <tbody>
     <tr>
@@ -51,7 +62,7 @@
 
 
 
-## <span id="5">📦프로젝트 산출물</span>
+## <span id="5">프로젝트 산출물📦</span>
 <details>
   <summary>
   <h3>ERD</h3>
@@ -62,6 +73,7 @@
   <summary>
   <h3>API 명세서</h3>
   </summary>
+  
 </details>
 <details>
   <summary>
@@ -69,7 +81,7 @@
   </summary>
 </details>
 
-## <span id="6">📐컨벤션</span>
+## <span id="6">컨벤션📐</span>
 ### 커밋 컨벤션
 <div>
 <pre background-color="#dbdbdb">
@@ -87,7 +99,7 @@
   ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
     제목 
     - 커밋 내용 간결하게 요약해서 한 줄 작성
-    - 명령조로 작성 ex) -추가, -삭제
+    - 명령조로 작성 ex) 추가, 삭제
     - 과거 시제 사용 금지
     - 50자 이내로 작성
     - 마침표, 특수기호 사용 금지<br/>
@@ -96,20 +108,38 @@
     - 한 줄 당 72자 이내로 작성
     - 최대한 상세히, 무엇을 왜 변경했는지 작성<br/>
     꼬리말(footer)
-    - 써도 되고 안써도 됨, 이슈 트래커 ID 작성
+    - 이슈 트래커 ID 작성(필요 시 작성)
     - “유형: #이슈 번호” 형식으로 작성
-    - 여러 개의 이슈 번호를 적을 때는 `쉼표(,)` 로 구분
+    - 여러 개의 이슈 번호를 적을 때는 쉼표(,) 로 구분
   ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ<br/>
   3. 이슈 트래커 유형 지정
   ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
-    - `Fixes` : 이슈 수정중 (아직 해결되지 않은 경우)
-    - `Resolves` : 이슈 해결 완료
-    - `Ref` : 참고할 이슈가 있을 때
-    - `Related to` : 해당 커밋에 관련된 이슈 번호 (아직 해결되지 않은 경우)
+    Fixes      이슈 수정중 (아직 해결되지 않은 경우)
+    Resolves   이슈 해결 완료
+    Ref        참고할 이슈가 있을 때
+    Related to 해당 커밋에 관련된 이슈 번호 (아직 해결되지 않은 경우)
   ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 </p>
 </pre>
 </div>
 
 ### 코드 컨벤션
+<div>
+<pre background-color="#dbdbdb">
+<p>
+  1. 백엔드 명명 규칙
+    - 클래스명: 첫 글자는 대문자로 시작, 파스칼 케이스 사용  ex) UserService, UserRole
+    - 변수명/메서드명: 첫 글자는 소문자로 시작, 카멜 케이스 사용  ex) getUserList, userEmail
+    - 상수명: 모두 대문자로 작성, 단어 사이는 언더바(_)로 구분  ex) USER_DEFAULT_ROLE
+    - DTO명:
+      - 요청(Request) DTO: <기능명>ReqDto ex) AddUserReqDto
+      - 응답(Response) DTO: <기능명>RespDto ex) GetUserByUserIdRespDto <br/>
+  2. 프론트엔드 명명 규칙
+    - React 컴포넌트: 파스칼 케이스 사용 ex)LoginPage.jsx
+    - 일반 변수/함수: 카멜 케이스 사용 ex) getUserInfo, userEmail
+    - Api 요청 함수: Req 접미사 붙여서 함수 정의 ex) sendMailReq
+    - 이벤트 핸들러: OnXxxHandler 접미사 붙여서 함수 정의 ex) loginBtnOnClickHandler , nameOnChangeHandler
+</p>
+</pre>
+</div>
 
