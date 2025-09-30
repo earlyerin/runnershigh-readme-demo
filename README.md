@@ -41,9 +41,17 @@
 <table>
   <tbody>
     <tr>
-      <td></td>
+      <td>크루 목록 화면</td>
+      <td>크루 검색</td>
+      <td>지역 선택</td>
+      <td>크루 상세 화면(크루 참여하기)</td>
+      <td>크루 추가 화면</td>
     </tr>
     <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
   </tbody>
@@ -53,8 +61,14 @@
   <tbody>
     <tr>
       <td>스플래시 화면</td>
+      <td>무한 스크롤</td>
+      <td>실시간 채팅</td>
+      <td>채팅방 나가기</td>
     </tr>
     <tr>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
   </tbody>
@@ -63,9 +77,13 @@
 <table>
   <tbody>
     <tr>
-      <td></td>
+      <td>피드 목록 화면</td>
+      <td>피드 마커 클러스터링 화면</td>
+      <td>피드 추가 화면</td>
     </tr>
     <tr>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
   </tbody>
@@ -77,8 +95,14 @@
       <td>내 게시물 화면</td>
       <td>좋아요 누른 게시물 화면</td>
       <td>캘린더 화면</td>
+      <td>일지 작성 및 확인 화면</td>
+      <td>프로필 이미지 변경</td>
+      <td>닉네임 변경</td>
     </tr>
     <tr>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -89,18 +113,18 @@
 <table>
   <tbody>
     <tr>
-      <td></td>
+      <td>로그인 화면</td>
     </tr>
     <tr>
       <td></td>
     </tr>
   </tbody>
 </table>
-<h3>6. 회원가입입</h3>
+<h3>6. 회원가입</h3>
 <table>
   <tbody>
     <tr>
-      <td></td>
+      <td>회원가입 화</td>
     </tr>
     <tr>
       <td></td>
