@@ -47,13 +47,17 @@
       <td>크루 목록 화면</td>
       <td>크루 검색</td>
       <td>지역 선택</td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/fea75836-d399-49a7-9bcc-31cefc5fa1d8" height="500px"/></td>
+      <td><img src="https://github.com/user-attachments/assets/89de46f4-25ea-4492-b1a1-21f943af92f0" height="500px"/></td>
+      <td><img src="https://github.com/user-attachments/assets/87a82d76-334e-46c7-91f5-7a7874d76e41" height="500px"/></td>
+    </tr>
+    <tr>
       <td>크루 상세 화면(크루 참여하기)</td>
       <td>크루 추가 화면</td>
     </tr>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/fea75836-d399-49a7-9bcc-31cefc5fa1d8" height="500px"/></td>
-      <td><img src="" height="500px"/></td>
-      <td><img src="https://github.com/user-attachments/assets/87a82d76-334e-46c7-91f5-7a7874d76e41" height="500px"/></td>
       <td><img src="" height="500px"/></td>
       <td><img src="" height="500px"/></td>
     </tr>
@@ -87,7 +91,7 @@
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/e92b85ca-0f09-495c-9a4a-2a10d6591334" height="500px"/></td>
-      <td><img src="" height="500px"/></td>
+      <td><img src="https://github.com/user-attachments/assets/85fb0c5e-b7d7-4d4b-92f2-df5584f7bca4" height="500px"/></td>
       <td><img src="" height="500px"/></td>
       <td><img src="" height="500px"/></td>
     </tr>
@@ -120,12 +124,16 @@
     <tr>
       <td>로그인 화면</td>
       <td>oauth2 가입</td>
-      <td>oauth2 연동</td>
-      <td>로딩 화면(리다이렉션 페이지)</td>
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/fbe85575-3f0b-41fc-b15c-dbf345ac1fe2" height="500px"/></td>
       <td><img src="" height="500px"/></td>
+    </tr>
+     <tr>
+      <td>oauth2 연동</td>
+      <td>로딩 화면(리다이렉션 페이지)</td>
+    </tr>
+    <tr>
       <td><img src="" height="500px"/></td>
       <td><img src="" height="500px"/></td>
     </tr>
