@@ -185,14 +185,12 @@
   </summary>
   <img width="1744" height="792" alt="ERD" src="https://github.com/user-attachments/assets/0b337ece-1563-4e6e-bfaf-5634d2758cf0" />
 </details>
+
+### [API 명세서](https://cosmic-fall-90b.notion.site/API-27e25026adfe806aa7a7ef09ade9310f?source=copy_link)
+
 <details>
   <summary>
-  <h3>API 명세서</h3>
-  </summary>
-</details>
-<details>
-  <summary>
-  <h3>페이지 명세서</h3>
+  <h3>기능 명세서</h3>
   </summary>
   
 </details>
