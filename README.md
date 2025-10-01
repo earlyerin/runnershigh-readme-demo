@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&size=100&letterSpacing=5px&duration=3000&pause=1000&color=00296B&background=FFFFFF&center=true&vCenter=true&width=1000&height=150&lines=RunnersHigh)](https://git.io/typing-svg)
+![2025-10-01192407-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/343f865b-4df8-4229-8d18-9192ccce520a)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&size=100&letterSpacing=5px&duration=3000&pause=1000&color=00296B&background=FFFFFF&center=true&vCenter=true&width=1000&height=150&lines=RunnersHigh)](https://git.io/typing-svg)
 
 # ⭐목차
 ### 1. [프로젝트 소개](#1)
@@ -69,12 +69,16 @@
     <tr>
       <td>스플래시 화면</td>
       <td>무한 스크롤</td>
-      <td>실시간 채팅</td>
-      <td>채팅방 나가기</td>
     </tr>
     <tr>
       <td><img src="" height="500px"/></td>
       <td><img src="" height="500px"/></td>
+    </tr>
+    <tr>
+      <td>실시간 채팅</td>
+      <td>채팅방 나가기</td>
+    </tr>
+    <tr>
       <td><img src="" height="500px"/></td>
       <td><img src="" height="500px"/></td>
     </tr>
@@ -86,14 +90,18 @@
     <tr>
       <td>피드 목록 화면</td>
       <td>피드 상세 화면</td>
-      <td>피드 마커 클러스터링 화면</td>
-      <td>피드 추가 화면</td>
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/e92b85ca-0f09-495c-9a4a-2a10d6591334" height="500px"/></td>
       <td><img src="https://github.com/user-attachments/assets/85fb0c5e-b7d7-4d4b-92f2-df5584f7bca4" height="500px"/></td>
-      <td><img src="" height="500px"/></td>
-      <td><img src="" height="500px"/></td>
+    </tr>
+    <tr>
+      <td>피드 마커 클러스터링 화면</td>
+      <td>피드 추가 화면</td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/1946e2e8-0df7-4335-a48c-c4a456f2c96e" height="500px"/></td>
+      <td><img src="https://github.com/user-attachments/assets/69a3a07e-cec0-4eeb-96ff-7ed5352636c3" height="500px"/></td>
     </tr>
   </tbody>
 </table>
@@ -104,14 +112,18 @@
       <td>내 게시물 화면</td>
       <td>좋아요 누른 게시물 화면</td>
       <td>캘린더 화면</td>
-      <td>일지 작성 및 확인 화면</td>
-      <td>프로필 이미지 변경</td>
-      <td>닉네임 변경</td>
     </tr>
     <tr>
       <td><img src="" height="500px"/></td>
       <td><img src="" height="500px"/></td>
       <td><img src="" height="500px"/></td>
+    </tr>
+    <tr>
+      <td>일지 작성 및 확인 화면</td>
+      <td>프로필 이미지 변경</td>
+      <td>닉네임 변경</td>
+    </tr>
+    <tr>
       <td><img src="" height="500px"/></td>
       <td><img src="" height="500px"/></td>
       <td><img src="" height="500px"/></td>
