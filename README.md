@@ -18,7 +18,7 @@
 * 크루 러닝을 원하는 사람
 ### 기대효과
 * 혼자 야외러닝하는 것에 어려움이 있다면 크루와 함께 시작!
-* 러닝 위치과 사진을 간편하게 공유
+* 러닝 위치와 사진을 간편하게 공유
 * 주간 랭킹을 통한 동기부여
 * 닉네임 변경, 일지 작성, 피드 관리, 좋아요 관리 등 개인화 기능을 한눈에 찾을 수 있게
 * 온라인에서 러닝 일상을 공유하며 유대감을 쌓고 오프라인으로 함께 러닝하는 연결고리로 역할
@@ -185,16 +185,16 @@
   </summary>
   <img width="1744" height="792" alt="ERD" src="https://github.com/user-attachments/assets/0b337ece-1563-4e6e-bfaf-5634d2758cf0" />
 </details>
-
-### [API 명세서](https://cosmic-fall-90b.notion.site/API-27e25026adfe806aa7a7ef09ade9310f?source=copy_link)
-
-### [기능 명세서](https://cosmic-fall-90b.notion.site/27e25026adfe80cc8db0e78e38209ab5?source=copy_link)
   
 </details>
 <details>
   <summary>
-  <h3>아키텍처</h3>
+  <h3>명세서</h3>
   </summary>
+  
+  [API 명세서](https://cosmic-fall-90b.notion.site/API-27e25026adfe806aa7a7ef09ade9310f?source=copy_link) 
+  
+  [기능 명세서](https://cosmic-fall-90b.notion.site/27e25026adfe80cc8db0e78e38209ab5?source=copy_link)
 </details>
 
 ## <span id="6">컨벤션📐</span>
