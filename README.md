@@ -36,7 +36,7 @@
       <td>메인 화면</td>
     </tr>
     <tr>
-      <td><img src="" alt="메인 화면"/></td>
+      <td><img src="https://github.com/user-attachments/assets/4e3caf75-0e10-49df-937a-4231815bb1d0" alt="메인 화면"/></td>
     </tr>
   </tbody>
 </table>
@@ -51,7 +51,9 @@
       <td>크루 추가 화면</td>
     </tr>
     <tr>
-      <td></td>
+      <td>
+        <img scr=""/>
+      </td>
       <td></td>
       <td></td>
       <td></td>
