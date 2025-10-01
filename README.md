@@ -36,7 +36,7 @@
       <td>메인 화면</td>
     </tr>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/4e3caf75-0e10-49df-937a-4231815bb1d0" alt="메인 화면"/></td>
+      <td><img src="https://github.com/user-attachments/assets/63b83a90-2e0f-47e3-bcd8-9921397a2805" height="500px"/></td>
     </tr>
   </tbody>
 </table>
@@ -51,13 +51,11 @@
       <td>크루 추가 화면</td>
     </tr>
     <tr>
-      <td>
-        <img scr=""/>
-      </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><img src="https://github.com/user-attachments/assets/fea75836-d399-49a7-9bcc-31cefc5fa1d8" height="500px"/></td>
+      <td><img src="" height="500px"/></td>
+      <td><img src="https://github.com/user-attachments/assets/87a82d76-334e-46c7-91f5-7a7874d76e41" height="500px"/></td>
+      <td><img src="" height="500px"/></td>
+      <td><img src="" height="500px"/></td>
     </tr>
   </tbody>
 </table>
@@ -71,10 +69,10 @@
       <td>채팅방 나가기</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><img src="" height="500px"/></td>
+      <td><img src="" height="500px"/></td>
+      <td><img src="" height="500px"/></td>
+      <td><img src="" height="500px"/></td>
     </tr>
   </tbody>
 </table>
@@ -88,10 +86,10 @@
       <td>피드 추가 화면</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><img src="https://github.com/user-attachments/assets/e92b85ca-0f09-495c-9a4a-2a10d6591334" height="500px"/></td>
+      <td><img src="" height="500px"/></td>
+      <td><img src="" height="500px"/></td>
+      <td><img src="" height="500px"/></td>
     </tr>
   </tbody>
 </table>
@@ -107,12 +105,12 @@
       <td>닉네임 변경</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><img src="" height="500px"/></td>
+      <td><img src="" height="500px"/></td>
+      <td><img src="" height="500px"/></td>
+      <td><img src="" height="500px"/></td>
+      <td><img src="" height="500px"/></td>
+      <td><img src="" height="500px"/></td>
     </tr>
   </tbody>
 </table>
@@ -126,10 +124,10 @@
       <td>로딩 화면(리다이렉션 페이지)</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><img src="https://github.com/user-attachments/assets/fbe85575-3f0b-41fc-b15c-dbf345ac1fe2" height="500px"/></td>
+      <td><img src="" height="500px"/></td>
+      <td><img src="" height="500px"/></td>
+      <td><img src="" height="500px"/></td>
     </tr>
   </tbody>
 </table>
@@ -140,7 +138,7 @@
       <td>회원가입 화면</td>
     </tr>
     <tr>
-      <td></td>
+      <td><img src="https://github.com/user-attachments/assets/e36bf313-bd57-472f-a8af-a0b1083fa6bf" height="500px"/></td>
     </tr>
   </tbody>
 </table>
