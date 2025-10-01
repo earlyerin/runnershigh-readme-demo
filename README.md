@@ -188,10 +188,7 @@
 
 ### [API 명세서](https://cosmic-fall-90b.notion.site/API-27e25026adfe806aa7a7ef09ade9310f?source=copy_link)
 
-<details>
-  <summary>
-  <h3>기능 명세서</h3>
-  </summary>
+### [기능 명세서](https://cosmic-fall-90b.notion.site/27e25026adfe80cc8db0e78e38209ab5?source=copy_link)
   
 </details>
 <details>
