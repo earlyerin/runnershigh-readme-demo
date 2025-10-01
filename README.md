@@ -1,4 +1,4 @@
-![2025-10-01192407-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/343f865b-4df8-4229-8d18-9192ccce520a)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&size=100&letterSpacing=5px&duration=3000&pause=1000&color=00296B&background=FFFFFF&center=true&vCenter=true&width=1000&height=150&lines=RunnersHigh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&size=100&letterSpacing=5px&duration=3000&pause=1000&color=00296B&background=FFFFFF&center=true&vCenter=true&width=1000&height=150&lines=RunnersHigh)](https://git.io/typing-svg)
 
 # ⭐목차
 ### 1. [프로젝트 소개](#1)
@@ -36,7 +36,7 @@
       <td>메인 화면</td>
     </tr>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/63b83a90-2e0f-47e3-bcd8-9921397a2805" height="500px"/></td>
+      <td><img src="https://github.com/user-attachments/assets/6d08b32e-1e6b-495e-8fc1-4cdecc1e8842" height="500px"/></td>
     </tr>
   </tbody>
 </table>
@@ -56,10 +56,12 @@
     <tr>
       <td>크루 상세 화면(크루 참여하기)</td>
       <td>크루 추가 화면</td>
+      <td>크루 탈퇴하기</td>
     </tr>
     <tr>
-      <td><img src="" height="500px"/></td>
-      <td><img src="" height="500px"/></td>
+      <td><img src="https://github.com/user-attachments/assets/540f462c-9780-4494-875a-018172bab838" height="500px"/></td>
+      <td><img src="https://github.com/user-attachments/assets/49fa9ce1-512e-42bd-a7bd-6ff18f17ccac" height="500px"/></td>
+      <td><img src="https://github.com/user-attachments/assets/27319cf0-cc72-4708-b943-b4999defb7f6" height="500px"/></td>
     </tr>
   </tbody>
 </table>
@@ -68,15 +70,15 @@
   <tbody>
     <tr>
       <td>스플래시 화면</td>
-      <td>무한 스크롤</td>
+      <td>양방향 무한 스크롤</td>
     </tr>
     <tr>
-      <td><img src="" height="500px"/></td>
-      <td><img src="" height="500px"/></td>
+      <td><img src="https://github.com/user-attachments/assets/b35ddc64-2e5b-44dd-a410-8ed08aeaf071" height="500px"/></td>
+      <td><img src="https://github.com/user-attachments/assets/6856bb45-5b99-4917-a878-b08f2b37f733" height="500px"/></td> 
     </tr>
     <tr>
-      <td>실시간 채팅</td>
-      <td>채팅방 나가기</td>
+      <td>실시간 채팅(사용자1)</td>
+      <td>실시간 채팅(사용자2)</td>
     </tr>
     <tr>
       <td><img src="" height="500px"/></td>
@@ -114,9 +116,9 @@
       <td>캘린더 화면</td>
     </tr>
     <tr>
-      <td><img src="" height="500px"/></td>
-      <td><img src="" height="500px"/></td>
-      <td><img src="" height="500px"/></td>
+      <td><img src="https://github.com/user-attachments/assets/0e85ca85-f1ed-4eef-b01f-6d8c575e1137" height="500px"/></td>
+      <td><img src="https://github.com/user-attachments/assets/1c07d7c1-8f6a-481c-bf95-2e5a751d9b3b" height="500px"/></td>
+      <td><img src="https://github.com/user-attachments/assets/f8b7c29d-041b-4e96-a51c-7ebfb02eaa69" height="500px"/></td>
     </tr>
     <tr>
       <td>일지 작성 및 확인 화면</td>
@@ -124,9 +126,9 @@
       <td>닉네임 변경</td>
     </tr>
     <tr>
-      <td><img src="" height="500px"/></td>
-      <td><img src="" height="500px"/></td>
-      <td><img src="" height="500px"/></td>
+      <td><img src="https://github.com/user-attachments/assets/c651da04-3519-445c-a021-5213ca7f173e" height="500px"/></td>
+      <td><img src="https://github.com/user-attachments/assets/cc138b49-c8ad-42ad-897b-21238a49af2d" height="500px"/></td>
+      <td><img src="https://github.com/user-attachments/assets/90492736-db73-4f52-82a4-86aa07e640ae" height="500px"/></td>
     </tr>
   </tbody>
 </table>
@@ -135,19 +137,9 @@
   <tbody>
     <tr>
       <td>로그인 화면</td>
-      <td>oauth2 가입</td>
     </tr>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/fbe85575-3f0b-41fc-b15c-dbf345ac1fe2" height="500px"/></td>
-      <td><img src="" height="500px"/></td>
-    </tr>
-     <tr>
-      <td>oauth2 연동</td>
-      <td>로딩 화면(리다이렉션 페이지)</td>
-    </tr>
-    <tr>
-      <td><img src="" height="500px"/></td>
-      <td><img src="" height="500px"/></td>
+      <td><img src="https://github.com/user-attachments/assets/0439264d-1746-451f-b813-0540073a0893" height="500px"/></td>
     </tr>
   </tbody>
 </table>
@@ -158,7 +150,7 @@
       <td>회원가입 화면</td>
     </tr>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/e36bf313-bd57-472f-a8af-a0b1083fa6bf" height="500px"/></td>
+      <td><img src="https://github.com/user-attachments/assets/2390ec91-67c9-49d5-9e11-13a9d1e09219" height="500px"/></td>
     </tr>
   </tbody>
 </table>
