@@ -1,5 +1,28 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&size=100&letterSpacing=5px&duration=3000&pause=1000&color=00296B&background=FFFFFF&center=true&vCenter=true&width=1000&height=150&lines=RunnersHigh)](https://git.io/typing-svg)
 
+<div align='center'>
+  <br/>
+		<h3><b> 🏅러닝을 기록하고, 공유하며, 함께 달리는 러너들의 공간, 러너스하이🏃‍♂️ </b></h3>
+	<br/>
+  
+  ![React](https://badgen.net/badge/React/v19.1.1/cyan?) 
+  ![React-Router](https://badgen.net/badge/React-Router/v7.9.1/CA4245?)
+  ![zustand](https://badgen.net/badge/Recoil/v0.7.7/007AF4?)
+  ![emotion](https://badgen.net/badge/emotion/v11.14.0/C865B9?)
+  
+  ![React-Query](https://badgen.net/badge/ReactQuery/v5.87.4/F2D024?) 
+  ![Axios](https://badgen.net/badge/Axios/v1.12.2/5A29E4?) 
+  ![STOMP.js](https://badgen.net/badge/STOMP.js/v7.1.1/blue?)
+</div>
+
+
+👉 [러너스하이 시작하기]()
+
+```md
+ID: 
+PW: 
+```
+
 # ⭐목차
 ### 1. [프로젝트 소개](#1)
 ### 2. [주요 기능](#2)
@@ -13,7 +36,7 @@
 * 러닝이 큰 인기를 끌며, 건강과 자기계발을 동시에 추구하는 트렌드로 자리 잡음에 따라 주제로 선정
 * 개인 운동의 특성을 변화시킬 웹앱의 등장
 ### 대상
-* 러닝 초보부터 고수까지 실력보단 꾸준함을 추구하는 사람
+* 러닝 초보부터 고수까지 꾸준함을 추구하는 사람
 * **개인** 운동일지 작성과 러닝사진 **공유**를 동시에 하고 싶은 사람
 * 크루 러닝을 원하는 사람
 ### 기대효과
@@ -173,7 +196,7 @@
 <table>  
   <tbody>
     <tr>
-      <td width="25%"><img src="https://github.com/user-attachments/assets/3e8d5731-ab78-4af9-8c71-390395f4f8ec" width="100%" alt="손원영"/></td>
+      <td width="25%"><img src="" width="100%" alt="손원영"/></td>
       <td width="25%"><img src="https://cdn.discordapp.com/attachments/1404417214022422648/1422162987170398229/SPOILER_.jpg?ex=68dbabfe&is=68da5a7e&hm=692805a18f590fee7c05f40fdfad1ae9ab70931e2d07ec2803523979c9f027b3&" width="100%" alt="김지니"/></td>
       <td width="25%"><img src="https://cdn.discordapp.com/attachments/1404417214022422648/1422125944033902602/SPOILER_KakaoTalk_20250722_122439888_01.jpg?ex=68db897e&is=68da37fe&hm=2e0d6ad07e18dedef813b1f8637274da0464f25ed47bfe4557dd24732cdbf35a&" width="100%" alt="이슬기"/></td>
       <td width="25%"><img src="https://github.com/user-attachments/assets/3e8d5731-ab78-4af9-8c71-390395f4f8ec" width="100%" alt="이예린"/></td>
