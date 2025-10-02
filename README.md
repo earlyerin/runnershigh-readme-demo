@@ -69,7 +69,7 @@
 <table>
   <tbody>
     <tr>
-      <td>스플래시 화면</td>
+      <td>채팅방 화면</td>
       <td>양방향 무한 스크롤</td>
     </tr>
     <tr>
