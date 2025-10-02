@@ -1,18 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&size=100&letterSpacing=5px&duration=3000&pause=1000&color=00296B&background=FFFFFF&center=true&vCenter=true&width=1000&height=150&lines=RunnersHigh)](https://git.io/typing-svg)
 
 <div align='center'>
-  <br/>
-		<h3><b> 🏅러닝을 기록하고, 공유하며, 함께 달리는 러너들의 공간, 러너스하이🏃‍♂️ </b></h3>
-	<br/>
-  
-  ![React](https://badgen.net/badge/React/v19.1.1/cyan?) 
-  ![React-Router](https://badgen.net/badge/React-Router/v7.9.1/CA4245?)
-  ![zustand](https://badgen.net/badge/Recoil/v0.7.7/007AF4?)
-  ![emotion](https://badgen.net/badge/emotion/v11.14.0/C865B9?)
-  
-  ![React-Query](https://badgen.net/badge/ReactQuery/v5.87.4/F2D024?) 
-  ![Axios](https://badgen.net/badge/Axios/v1.12.2/5A29E4?) 
-  ![STOMP.js](https://badgen.net/badge/STOMP.js/v7.1.1/blue?)
+	<h3><b> 🏅러닝을 기록하고, 공유하며, 함께 달리는 러너들의 공간, 러너스하이🏃‍♂️ </b></h3>
 </div>
 
 # ⭐목차
